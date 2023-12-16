@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML5, CSS and JavaScript
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me chinaemeremaneke24@gmail.com
+- 📫 How to reach me anekedivine240@gmail.com
 
 <!---
 chinaemerem-aneke/chinaemerem-aneke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
