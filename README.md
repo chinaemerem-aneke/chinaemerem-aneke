@@ -31,6 +31,11 @@ Got an idea or project in mind? Let’s talk 👇
 
 ---
 
+## 📫 Let’s Connect! 
+🐦 [Twitter (https://x.com/a_chinaemerem)] 
+🌐 [Portfolio (in the works, stay tuned!)]  
+
+
 > “Code what you can’t stop thinking about.”  
 > — Me, after a midnight CSS breakthrough 😅
 
